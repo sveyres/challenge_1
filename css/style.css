@@ -74,7 +74,7 @@ body{
     margin-top: 60px;
     display: flex;
     justify-content: space-between;
-    border-top: solid #e8e8e8;
+    border-top: 1px solid #e8e8e8;
 }
 
 article {
@@ -128,9 +128,4 @@ article p {
     border: 4px solid #9c9c9c;
     border-radius: 50%;
     color: #9c9c9c;
-}
-
-img {
-    width: 260px;
-    height: 195px
 }
